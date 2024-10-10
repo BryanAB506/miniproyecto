@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "arros mr.maximo 1Kg",
+      "precio": "¢1000",
+      "fecha_de_vencimiento": "12/10/2023"
+    },
+    {
+      "id": 2,
+      "name": "salchichas suli",
+      "precio": "¢1200",
+      "fecha_de_vencimiento": "12/10/2023"
+    },
+    {
+      "id": 3,
+      "name": "leche 2pinos",
+      "precio": "¢1320",
+      "fecha_de_vencimiento": "12/10/2023"
+    },
+    {
+      "id": 4,
+      "name": "pan Suli",
+      "precio": 1000,
+      "fecha_de_vencimiento": "12/10/2023"
+    }
+  ]
+}
